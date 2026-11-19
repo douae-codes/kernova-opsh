@@ -20,3 +20,4 @@ while $N -lt 4
     say Nombre $N
     export N=4
 endwhile
+ 
