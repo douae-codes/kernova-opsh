@@ -1,0 +1,12 @@
+
+# Configuration KERNOVA OPSH
+
+# Variables d'environnement
+export EDITOR=code
+export PROJECT=KERNOVA
+
+# Message de bienvenue
+say Bienvenue dans KERNOVA OPSH !
+
+# Alias et commandes disponibles
+say Tape info pour afficher les commandes.

@@ -1,0 +1,22 @@
+
+# Test de la condition IF
+export AGE=20
+
+if $AGE -gt 18
+    say Tu es majeur
+else
+    say Tu es mineur
+endif
+
+# Test de la boucle FOR
+for NOM in Ali Sara Douae
+    say Bonjour $NOM
+endfor
+
+# Test de la boucle WHILE
+export N=1
+
+while $N -lt 4
+    say Nombre $N
+    export N=4
+endwhile
